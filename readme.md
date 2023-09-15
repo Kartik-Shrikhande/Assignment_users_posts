@@ -1,4 +1,4 @@
-## Assignmentof users and posts with comment and like functionalities
+## Assignment of users and posts with comment and like functionalities
 
 ## Introduction
 created user and post models where user can be created ,updated,deleted along with implementation of login api and created an post Model on which ,we can perform CRUD with Authentication and Authorization and added functionalities like an logged in user can comment the post as well as can like the comments. tech stacks used here are Nodejs,Expressjs,Mongoose,MongoDB,Jwt,Redis,nodemon,bcrypt for password encryption,and dotenv to save sensative credentials like mongoDb string and Secret-keys of Jwt used redis to implement refresh token system to get fast response from refreshable jwt token
