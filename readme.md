@@ -25,7 +25,7 @@ this project main aim is to create user who can create,delete,update,his posts a
    npm start
    ```
 
-5. Access the API at `http://localhost:3000`.
+5. Access the API at `(https://assignment-user-posts.onrender.com)`.
 
 
 ## Database Configuration
