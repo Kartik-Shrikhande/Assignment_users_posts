@@ -87,7 +87,7 @@ REDIS_PASS='Redis -password'
    npm start
    ```
 
-2. Access the API at `http://localhost:3000`.
+2. Access the API at `(https://assignment-user-posts.onrender.com)`.
 
 
 
